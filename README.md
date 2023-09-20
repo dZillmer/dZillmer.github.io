@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Devon Zillmer, and I am a confident and technically competent ORSA with experience both leading civilians and military personnel and communicating dense technical content in a clear and concise manner. Two years into my teaching assignment in the department of Mathematical Sciences at the United States Military Academy, I am comfortable briefing my work and technical ideas to an audience of all skill levels, and have experience balancing leadership responsibilities with continued research into technical topics.
+My name is Devon Zillmer, and I am a confident and technically competent ORSA with experience both leading civilians and military personnel, and communicating dense technical content in a clear and concise manner. Two years into my teaching assignment in the department of Mathematical Sciences at the United States Military Academy, I am comfortable briefing my work and technical ideas to an audience of all skill levels, and have experience balancing leadership responsibilities with continued research into technical topics.
 
 This is a collection of my work on various recent projects and some of the highlights from my CV. While I am new to collaborating on GitHub, as you can see with some of the files, I've been doing this work offline since graduate school in 2021.
 
